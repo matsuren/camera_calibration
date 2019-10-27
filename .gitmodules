@@ -1,0 +1,3 @@
+[submodule "SpinnakerVideoCapture"]
+	path = SpinnakerVideoCapture
+	url = https://github.com/matsuren/SpinnakerVideoCapture.git
